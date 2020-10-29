@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-omkarlubal/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-omkarlubal/static/js/main.9e5dc91b.chunk.js",
+    "main.js.map": "/portfolio-omkarlubal/static/js/main.9e5dc91b.chunk.js.map",
+    "runtime-main.js": "/portfolio-omkarlubal/static/js/runtime-main.8969981a.js",
+    "runtime-main.js.map": "/portfolio-omkarlubal/static/js/runtime-main.8969981a.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-omkarlubal/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.c0737d1e.chunk.js": "/portfolio-omkarlubal/static/js/2.c0737d1e.chunk.js",
+    "static/js/2.c0737d1e.chunk.js.map": "/portfolio-omkarlubal/static/js/2.c0737d1e.chunk.js.map",
+    "index.html": "/portfolio-omkarlubal/index.html",
+    "precache-manifest.50b335531b29ca82813da463dbf96c17.js": "/portfolio-omkarlubal/precache-manifest.50b335531b29ca82813da463dbf96c17.js",
+    "service-worker.js": "/portfolio-omkarlubal/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-omkarlubal/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-omkarlubal/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.c0737d1e.chunk.js.LICENSE.txt": "/portfolio-omkarlubal/static/js/2.c0737d1e.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-omkarlubal/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-omkarlubal/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8969981a.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.c0737d1e.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.9e5dc91b.chunk.js"
+  ]
+}
